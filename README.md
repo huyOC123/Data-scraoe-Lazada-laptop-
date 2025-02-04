@@ -1,0 +1,1 @@
+Laptop datascrape on Lazada
